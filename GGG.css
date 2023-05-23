@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    background-color: rgb(127, 224, 224);
+    text-align: center;
+}
+td{
+    background-color: rgb(56, 241, 180);
+    color:rgb(59, 59, 180);
+    text-align: center;
+    height: 50px;
+    border-spacing: 30px;
+}
+th{
+    background-color: rgb(223, 136, 30);
+    color:rgb(61, 61, 201);
+    text-align: center; 
+}
+body{
+    background-color: black;
+}
+td:target{
+    background-color: rgb(207, 134, 44);
+    color:aliceblue;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover{
+    background-color: rgb(218, 193, 162);
+    color:rgb(226, 195, 153);
+    font-style: italic;
+    font-weight: 900;
+}

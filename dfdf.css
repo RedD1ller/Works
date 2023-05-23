@@ -1,0 +1,15 @@
+table {
+    width: 500px;
+    background-color: rgb(72, 211, 165);
+    text-align: center;
+}
+div.size{
+    width: 500px;
+    background-color: rgb(4, 226, 226);
+    margin: 10px;
+}
+span{
+    width: 500px;
+    background-color: rgb(12, 12, 179);
+    margin-left: auto;
+}

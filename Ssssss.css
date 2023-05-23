@@ -1,0 +1,12 @@
+body {background-color: aquamarine;
+    width: 300px;
+    border-collapse: collapse;
+    }
+    TD, TH {
+        padding: 3px;
+        border: 1px solid black;
+    }
+    TH {
+        background: #880088;
+    }
+caption{caption-side: bottom;text-align: right;}

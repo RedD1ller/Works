@@ -1,0 +1,49 @@
+body {
+	background: #e6dd6b;
+}
+.wrap {
+	margin: 20% auto;
+	width: 500px;
+	height: 200px;
+	padding: 30px;
+	background: #fcea4a;
+	-webkit-box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 1);
+	-moz-box-shadow:    0px 0px 30px 0px rgba(50, 50, 50, 1);
+	box-shadow:         0px 0px 30px 0px rgba(50, 50, 50, 1);
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+.wrap img {
+	vertical-align: middle;
+	width: 150px;
+}
+.wrap hr {
+	align: right;
+	margin-top: 20px;
+}
+.company_description {
+	margin-left: 100px;
+	font-size: 18px;
+	font-weight: 900;
+	font-style: italic;
+}
+.main_info {
+	margin-top: 20px;
+}
+.site {
+	font-weight: 900;
+	font-size: 30px;
+}
+.info {
+	float: right;
+}
+.sized {
+	font-size: 18px;
+}
+.moon {
+	font-size: 50px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-style: oblique;
+}
